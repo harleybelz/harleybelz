@@ -1,12 +1,12 @@
 <h1 align="center">What's up 👋, I'm Harley Carandang</h1>
-<h3 align="center">A Mechatronics student on a mission to blend mechanics and electronics into groundbreaking solutions. Currently pursuing my degree, thriving on challenges, tinkering with robots, and turning ideas into reality. Watch out my journey in the world of mechatronics!</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/W-CoMNI7paUAAAAi/blue-fire-burning.gif">
+<h3 align="left">A Mechatronics student on a mission to blend mechanics and electronics into groundbreaking solutions. Currently pursuing my degree, thriving on challenges, tinkering with robots, and turning ideas into reality. Watch out my journey in the world of mechatronics!</h3>
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/W-CoMNI7paUAAAAi/blue-fire-burning.gif">
 
 - 📝 I’m currently studying at **Batangas State University - Alangilan Campus**
 
 - 🌱 Learning about **AIs, Robotics & Programming**
 
-- 💬 About me **Always striving for my craft, Open for corrections & Driven**
+- 🔥 About me **Always striving for my craft, Open for corrections & Driven**
 
 - 📫 Reach me at **harleycarandang123@gmail.com**
 
