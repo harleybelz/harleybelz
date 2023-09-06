@@ -4,7 +4,7 @@
 
 - 📝 I’m currently studying at **Batangas State University - Alangilan Campus**
 
-- 🌱 Learning about **AIs, Robotics & Programming**
+- 🧠 Learning about **AIs, Robotics & Programming**
 
 - 🔥 About me **Always striving for my craft, Open for corrections & Driven**
 
